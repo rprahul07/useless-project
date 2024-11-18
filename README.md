@@ -43,4 +43,4 @@ npm install
 
 # Start the development server
 npm run dev
-
+ video link :https://youtu.be/QF1L-U1hNzg?si=GZdKEgl9h7cVincM
